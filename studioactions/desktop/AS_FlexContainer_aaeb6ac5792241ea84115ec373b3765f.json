@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_aaeb6ac5792241ea84115ec373b3765f": {
+        "id": "AS_FlexContainer_aaeb6ac5792241ea84115ec373b3765f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGuestList4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e4a93bc811ad40ebb43413da61852465"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "OPEN_URL_d6547532f40749ec81a78e1b38288dc8",
+            "type": "OPEN_URL",
+            "url": "https://www.goibibo.com/flights"
+        }]
+    }
+}

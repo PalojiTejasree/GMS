@@ -1,0 +1,119 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s63fa2ae11c64542bfbd247b2c751c3a",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label0dd827f66e0764d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cbe791a8e2a345ce9cd0b83f76190220",
+    "name": "kony.ui.Label",
+    "parent": "flxLineSeperate",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "1dp"
+            },
+            "skin": "sca1f92e309e45df907555e88ed400b1",
+            "width": {
+                "type": "string",
+                "value": "47%"
+            }
+        },
+        "b3": {
+            "skin": "saa78919110c4e05b8b4893c404790f4",
+            "text": "",
+            "top": {
+                "type": "string",
+                "value": "25%"
+            },
+            "width": {
+                "type": "string",
+                "value": "48%"
+            }
+        },
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "29%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "skin": "se6ad7bc6e6f4d468ba9edecab9befd4",
+            "text": "",
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label"
+}

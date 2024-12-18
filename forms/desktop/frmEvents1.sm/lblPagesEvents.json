@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s98e8dd4f18d46009e8a5b1a74e642d5",
+    "_text_": "Create Event here",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblPagesEvents",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "edbde362401d414990943d7f3d7c8778",
+    "name": "kony.ui.Label",
+    "parent": "flxPageEvents",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false,
+            "skin": "s78abd11565f4750a9feda57f4df870c"
+        },
+        "b3655060512": {
+            "isVisible": false,
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b5": {
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,77 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s1c2b647a1a043a1b8655ade3d2c10c1",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblDate",
+        "lblEventname",
+        "lblLocation",
+        "lblInformation"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "CopyflxEventController"
+        }
+    },
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "focusSkin": "s7ef08df3e8e4991a3168f5a7606b973",
+        "hoverSkin": "s14b25f7c2214f40983e0e2dc8fd15ce"
+    },
+    "enablescrolling": true,
+    "id": "CopyflxEvent",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fad3232c6f67429b8946e88aff63d8c4",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopytplEvent",
+    "pf": "CopytplEvent",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

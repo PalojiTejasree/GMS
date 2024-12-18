@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_g7f97510ad7c40669ada6e8072b9cba9": {
+        "id": "AS_FlexContainer_g7f97510ad7c40669ada6e8072b9cba9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGuestList4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e4a93bc811ad40ebb43413da61852465"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "OPEN_URL_ae607d76caff4915b6fe3e3304cda4d4",
+            "type": "OPEN_URL",
+            "url": "https://www.trivago.in"
+        }]
+    }
+}

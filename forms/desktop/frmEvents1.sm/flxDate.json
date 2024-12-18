@@ -1,0 +1,110 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s69d9fb7be4544ed96068f6e6abedbed",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "Calendar0d7cc2805edf744"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxDate",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e57471d8d0fe4690a06459e903c6e9d1",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0b2769de2c15245",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "60%"
+            },
+            "top": {
+                "type": "string",
+                "value": "35%"
+            },
+            "width": {
+                "type": "string",
+                "value": "45%"
+            }
+        },
+        "b3655060512": {
+            "centerX": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "60%"
+            },
+            "top": {
+                "type": "string",
+                "value": "20%"
+            },
+            "width": {
+                "type": "string",
+                "value": "45%"
+            }
+        },
+        "b5": {
+            "height": {
+                "type": "string",
+                "value": "60%"
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

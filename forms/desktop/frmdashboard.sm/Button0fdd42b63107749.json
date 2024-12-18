@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf487b73a5cd498cae8d53e3e77b5bcf",
+    "_text_": "Mobile App",
+    "_top_": {
+        "type": "string",
+        "value": "175dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s36c2161139c4143b036e1ca44d6395e",
+    "id": "Button0fdd42b63107749",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ae28032e714941e2a91c9276fbce070e",
+    "name": "kony.ui.Button",
+    "parent": "flxExperience",
+    "pf": "frmdashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

@@ -1,0 +1,23 @@
+{
+    "Records_getRecords": {
+        "servicename": "Records",
+        "serviceid": "ff8baafd-e9bd-4108-8a57-2639ddb7c722",
+        "type": "objectsvcs",
+        "objectname": "getRecords",
+        "objectid": "508758"
+    },
+    "Testing_one": {
+        "servicename": "Testing",
+        "serviceid": "0eaaa82b-ab6c-4686-b5ef-b5d067e77d13",
+        "type": "objectsvcs",
+        "objectname": "one",
+        "objectid": "508596"
+    },
+    "UserData_UserDetails": {
+        "servicename": "UserData",
+        "serviceid": "2a282472-b3fb-4a81-9c65-132897f995b0",
+        "type": "objectsvcs",
+        "objectname": "UserDetails",
+        "objectid": "506360"
+    }
+}

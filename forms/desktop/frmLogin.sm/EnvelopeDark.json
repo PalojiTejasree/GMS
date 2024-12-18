@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "410dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd192bec8b1748ceb2f88c76a8395c9d",
+    "_text_": "",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "44.71%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "EnvelopeDark",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "f03a0dd15cb3405dbf84fde6659edcf6",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxEmail",
+    "pf": "frmLogin",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 2
+}

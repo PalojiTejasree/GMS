@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2e759daa9ef4730bb952c3f2e3273fb",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "235dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopylblAirport0j27d114f78cb4f",
+        "CopyImage0hd56e30c66b04e"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxInternationalAirport0id170fe1efc346",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cf3612b0471840d3a9dd5c7b2a85e8fc",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CopyflxButtons0f57eac2520d342",
+    "pf": "frmVisitorsList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

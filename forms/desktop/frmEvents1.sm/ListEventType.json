@@ -1,0 +1,163 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s40ee830a9fe4a42b66b979dcb6001ec",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sd98fae0686c47299e316b3c6d6301bf",
+    "groupcells": false,
+    "id": "ListEventType",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gc20b7c9a30542d69bcee020e832bd14",
+    "masterdata": [
+        [
+            "lb1",
+            "Select Event Type"
+        ],
+        [
+            "lb2",
+            "conference"
+        ],
+        [
+            "lb3",
+            "Workshop"
+        ],
+        [
+            "Key2788255233",
+            "Forum"
+        ],
+        [
+            "Key3998067279",
+            "Bootcamp"
+        ],
+        [
+            "Key3471053606",
+            "Awards"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxCreateEventData",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "5%"
+            },
+            "top": {
+                "type": "string",
+                "value": "8dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b3655060512": {
+            "height": {
+                "type": "string",
+                "value": "5%"
+            },
+            "left": {
+                "type": "string",
+                "value": "28dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "160dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b5": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "6%"
+            },
+            "left": {
+                "type": "string",
+                "value": "31dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "160dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "Select Event Type"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox"
+}

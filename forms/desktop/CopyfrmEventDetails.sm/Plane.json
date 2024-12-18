@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s152377b522140a3a6fd28e19d04b951",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s25c292fa9e244a1ae5b3f98d82a1834"
+        }
+    },
+    "disabledSkins": {},
+    "id": "Plane",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e7eee37a9e4a4b79b1173f94d9378520",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0ddc944a6d13a4a",
+    "pf": "CopyfrmEventDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

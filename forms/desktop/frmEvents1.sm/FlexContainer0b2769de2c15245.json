@@ -1,0 +1,127 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "scc4dd8ff5ad477b94f352de8526df46",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "number",
+        "value": ""
+    },
+    "children": [
+        "Label0h2697f33a58548",
+        "flxDate",
+        "Label0i4a161e9405d46",
+        "flxTime"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0b2769de2c15245",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e56585d30ec34fb7bcc5ced1288f6ad2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxCreateEventData",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "10%"
+            },
+            "skin": "sdf65ef150ba4e348cd9261d03ca3989",
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b3655060512": {
+            "height": {
+                "type": "string",
+                "value": "10%"
+            },
+            "left": {
+                "type": "string",
+                "value": "31dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "330dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b5": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "10%"
+            },
+            "left": {
+                "type": "string",
+                "value": "15dp"
+            },
+            "skin": "s2a91d682f0f486dae6f3f6c548109ee",
+            "top": {
+                "type": "string",
+                "value": "330dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

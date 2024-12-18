@@ -1,0 +1,54 @@
+{
+    "AS_FlexContainer_b69a61ed8cf64b63aee2b9d0fbb22566": {
+        "id": "AS_FlexContainer_b69a61ed8cf64b63aee2b9d0fbb22566",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEvents1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c2d40daee1514e6ea6d1477f1e4fbd1c"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_e6940735aa4c436fae24af6e05593f7b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.flxHamburgerMenu.isVisible){\n  this.view.flxHamburgerMenu.centerX=\"100%\";\n}\nelse{\n   this.view.flxHamburgerMenu.centerX=\"70%\";\n}",
+            "parentId": null,
+            "disabled": true
+        }, {
+            "id": "MOVE_ACTION_g2bf111dc3314fcab6b0cf04c7d16d2d",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "frmEvents1",
+            "widgetId": "flxHamburgerMenu",
+            "itemKUID": "c2d40daee1514e6ea6d1477f1e4fbd1c",
+            "widgetKUID": "fcf57507caca4bb2b93a80356da84e04",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                },
+                "centerX": "70%"
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "voltmx.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION_g2bf111dc3314fcab6b0cf04c7d16d2d",
+            "displayAnimationId": "MOVE_ACTION_g2bf111dc3314fcab6b0cf04c7d16d2d",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.flxHamburgerMenu"
+        }]
+    }
+}

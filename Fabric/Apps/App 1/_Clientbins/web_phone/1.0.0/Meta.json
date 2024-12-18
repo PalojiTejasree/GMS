@@ -1,0 +1,8 @@
+{
+  "filename": "SampleDesktop.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "SampleDesktop",
+  "description": "'Binary for SampleDesktop'",
+  "version": "1.0.0"
+}

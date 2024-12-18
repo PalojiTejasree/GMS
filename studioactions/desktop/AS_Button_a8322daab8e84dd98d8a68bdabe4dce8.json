@@ -1,0 +1,30 @@
+{
+    "AS_Button_a8322daab8e84dd98d8a68bdabe4dce8": {
+        "id": "AS_Button_a8322daab8e84dd98d8a68bdabe4dce8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fdc197625b5c4a3aa1a80d87fc625710"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__f5934b6d60bc46a2a552f44c0f1b493c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmdashboard",
+            "formKUID": "be512d6558fe42c0bf4b2d744863f321",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

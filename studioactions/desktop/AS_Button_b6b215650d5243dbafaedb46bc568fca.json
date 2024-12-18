@@ -1,0 +1,30 @@
+{
+    "AS_Button_b6b215650d5243dbafaedb46bc568fca": {
+        "id": "AS_Button_b6b215650d5243dbafaedb46bc568fca",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEvents1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c2d40daee1514e6ea6d1477f1e4fbd1c"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__hf448bfe7b094935b151de3bf378904b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "CopyfrmEventDetails",
+            "formKUID": "e49442a3b3b0422eb7162f8a462ee117",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

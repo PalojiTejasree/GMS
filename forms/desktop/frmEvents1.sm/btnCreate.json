@@ -1,0 +1,123 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "saca2a1a62db4c578322a84407432a7c",
+    "_text_": "Create",
+    "_top_": {
+        "type": "string",
+        "value": "490dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "127dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "80%"
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s069eb42ab4743118d36a4a87c2dd3dc"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s12dc091e43d480ab7e875892f3c1648",
+    "id": "btnCreate",
+    "ide_onClick": "AS_Button_b6b215650d5243dbafaedb46bc568fca",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb2790039d4745d3a4c49ae47bb37df8",
+    "name": "kony.ui.Button",
+    "parent": "flxCreateEventData",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "centerX": {
+                "type": "string",
+                "value": "47.33%"
+            },
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "string",
+                "value": "20dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "50%"
+            }
+        },
+        "b3655060512": {
+            "centerX": {
+                "type": "string",
+                "value": "50.71%"
+            },
+            "height": {
+                "type": "string",
+                "value": "7%"
+            },
+            "top": {
+                "type": "string",
+                "value": "580dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "40%"
+            }
+        },
+        "b5": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "7%"
+            },
+            "text": "Create",
+            "top": {
+                "type": "string",
+                "value": "640dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "60%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

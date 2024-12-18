@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "148dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s281c5c0cf794661a8348f22f63203e2",
+    "_text_": "Get Started",
+    "_top_": {
+        "type": "string",
+        "value": "178dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s36c2161139c4143b036e1ca44d6395e",
+    "id": "Button0jda61bc3f9bd48",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb8d964f344e4e6fb4c1be2c242ba6d1",
+    "name": "kony.ui.Button",
+    "parent": "flxFlightBooking",
+    "pf": "frmdashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

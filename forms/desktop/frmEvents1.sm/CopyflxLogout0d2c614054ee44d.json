@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2bb2e0883a44716b6d15ee273f9ce8e",
+    "_top_": {
+        "type": "string",
+        "value": "800dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "CopyImage0da038d12f2c14d",
+        "CopyLabel0i6c5b182cfc84a"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxLogout0d2c614054ee44d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "bb4218eda0a0491db65296b43c4b2a6e",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxHamburgerMenu",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b3655060512": {
+            "isVisible": true,
+            "top": {
+                "type": "string",
+                "value": "470dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6383b9765d841e787d59b3799cbb2d2",
+    "_text_": " The show showcased scenes depicting the historical trade voyages and life at sea.  Festival-goers were immersed in dramatic reenactments of dhow crew preparations, with performances illustrating the work of captains and crew members as they readied the dhows for their journeys. Traditional songs and chants filled the air, evoking the spirit of Qatar's seafaring past as the crew prepared their boats, braided ropes, and gathered equipment.",
+    "_top_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label0c1f7c65beec345",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b8957edb9eaa4297aada8c558025ef89",
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0fde9832c31a04d",
+    "pf": "CopyfrmEventDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label"
+}

@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s56fb159a0a8408e881a7d10120d2444",
+    "_text_": "1",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "saf33d0a63624a49b2c8bf0c6dc2939a"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s3b44be201964068ba6f0bcd28c23289",
+    "id": "btn1",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f7bb31ba736f4fe2819be4bfa7e865bb",
+    "name": "kony.ui.Button",
+    "parent": "flxPageChange",
+    "pf": "frmGuestList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

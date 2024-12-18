@@ -1,0 +1,30 @@
+{
+    "AS_Button_bc32006b6ca4493587a4640595cbe7f0": {
+        "id": "AS_Button_bc32006b6ca4493587a4640595cbe7f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmGuestList4",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e4a93bc811ad40ebb43413da61852465"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__b350343078fa4b04b1ba845e7841b1d2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGuestList2",
+            "formKUID": "j44ae9460692472abacff9f33d1ca986",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

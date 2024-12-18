@@ -1,0 +1,36 @@
+{
+    "AS_Label_b0c5ee3a6a004dec8e33ca72b3d37d25": {
+        "id": "AS_Label_b0c5ee3a6a004dec8e33ca72b3d37d25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmGuestList2",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j44ae9460692472abacff9f33d1ca986"
+        },
+        "language": "js",
+        "eventType": "onTouchEnd",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__b2b0af9aa137452ab424958dcdc2030a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGuestList3",
+            "formKUID": "f47f3967a3d84b85a5089f54ae183b2b",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

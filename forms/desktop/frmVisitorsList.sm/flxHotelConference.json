@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "210dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s65b96eba3b044ed98b8a09cb248eb2e",
+    "_top_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "900dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyflxTimings0i7dd8dcc69c74e",
+        "CopyflxLine0fd8795bb17e949",
+        "CopyflxPickupDetails0cb3fa73e35f544"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxHotelConference",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g2e39c8d11604c69b12f544e19269494",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollBodyContainer",
+    "pf": "frmVisitorsList",
+    "responsiveData": {
+        "b1": {
+            "skin": "s78df246d100415cb87e6289298f2869"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

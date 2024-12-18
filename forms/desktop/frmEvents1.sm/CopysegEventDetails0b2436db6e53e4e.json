@@ -1,0 +1,357 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "lblDate": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Date",
+                    "type": "Label"
+                },
+                "lblEventname": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Event name",
+                    "type": "Label"
+                },
+                "lblInformation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Information",
+                    "type": "Label"
+                },
+                "lblLocation": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Location",
+                    "type": "Label"
+                }
+            },
+            [
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "07-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Traditional Dhow Festival",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Katara Cultural Village",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "15-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Razz Exihibition at AI Hazm",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "AI hazm Mall",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "22-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Intercontinental Cup Finals",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Qatar",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "18-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Beach Volleyball pro Finals",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Aspire Park",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "22-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "QNL Winter Camp",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Qatar National Library",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "22-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bryan Adams Concert",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "QNCC",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Everythhing  You Could Wish",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Theatre,Mesaimeer",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "18-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Beach Volleyball pro Finals",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Aspire Park",
+                        "type": "Label"
+                    }
+                },
+                {
+                    "lblDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "26-Dec-2024",
+                        "type": "Label"
+                    },
+                    "lblEventname": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Bryan Adams Concert",
+                        "type": "Label"
+                    },
+                    "lblInformation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "View More",
+                        "type": "Label"
+                    },
+                    "lblLocation": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "QNCC",
+                        "type": "Label"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "CopysegEventDetails0b2436db6e53e4e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "i483e2e4dd144accbcd2c826ab21df53",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "CopyflxSeg0ifb7d15d0e0f40",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "width": {
+                "type": "string",
+                "value": "100%"
+            }
+        },
+        "b3655060512": {
+            "left": {
+                "type": "string",
+                "value": "0dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        },
+        "b5": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d26b1be089d74bdb924d5844b965a87d",
+    "rowcounter": 8,
+    "rowfocusskin": "sd151a56c9a94d428951f9337d0b2da0",
+    "rowskin": "sde1e0db9c6c4195b8048ed339bc037a",
+    "rowtemplate": "flxEvent",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "hd7af431c2bf4364b854db857dfc2770",
+    "sectionheaderskin": "s58116c5a0a04403a40929368d844e06",
+    "sectionheadertemplate": "flxEventHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "selectionbehaviorconfig": null,
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 578,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxEvent": "flxEvent",
+        "flxEventHeader": "flxEventHeader",
+        "lblDate": "lblDate",
+        "lblEventname": "lblEventname",
+        "lblInformation": "lblInformation",
+        "lblLocation": "lblLocation"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfdc2bf39cc24407aa01038f3e8c62f9",
+    "_text_": "Event Title",
+    "_top_": {
+        "type": "string",
+        "value": "87dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblEventTitle",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d5f483359d6e4710bc77817d08652ee7",
+    "name": "kony.ui.Label",
+    "parent": "flxCreateEventData",
+    "pf": "frmEvents1",
+    "responsiveData": {
+        "b1": {
+            "top": {
+                "type": "string",
+                "value": "15dp"
+            }
+        },
+        "b3655060512": {
+            "left": {
+                "type": "string",
+                "value": "31dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "65dp"
+            }
+        },
+        "b5": {
+            "top": {
+                "type": "string",
+                "value": "65dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

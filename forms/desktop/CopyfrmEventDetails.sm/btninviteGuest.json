@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se71f3c0f3a648ec854a719f090127f5",
+    "_text_": "Invite Guest",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "15.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "90%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se646999146941dab7228ead0708965a",
+    "id": "btninviteGuest",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d69487f7684244f995458da5c144408c",
+    "name": "kony.ui.Button",
+    "parent": "flxDetails",
+    "pf": "CopyfrmEventDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

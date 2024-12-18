@@ -1,0 +1,133 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_placeholder_": "Description",
+    "_skin_": "s9caf6fa45b1440d9720abf3511ea64b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "195dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "384dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "desktopweb": {
+        "placeholderSkin": "s6cde54c8f0d4571a00cb69a58ff7d8d"
+    },
+    "disabledSkins": {},
+    "focusskin": "sff9f858331d4e70ba1b560cc193dffd",
+    "id": "tAreaDesc",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "h8d80bc1468f40d098febf9840745b85",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "flxCreateEventData",
+    "pf": "frmEvents1",
+    "placeholderskin": "s6cde54c8f0d4571a00cb69a58ff7d8d",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "height": {
+                "type": "string",
+                "value": "12%"
+            },
+            "top": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b3655060512": {
+            "height": {
+                "type": "string",
+                "value": "12%"
+            },
+            "top": {
+                "type": "string",
+                "value": "230dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        },
+        "b5": {
+            "centerX": {
+                "type": "string",
+                "value": "50%"
+            },
+            "height": {
+                "type": "string",
+                "value": "12%"
+            },
+            "top": {
+                "type": "string",
+                "value": "231dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "90%"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

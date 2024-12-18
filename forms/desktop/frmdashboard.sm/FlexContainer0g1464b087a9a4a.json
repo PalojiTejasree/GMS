@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "82%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7529add91d14239bac78523b3fefd79",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "EllipsisH"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "FlexContainer0g1464b087a9a4a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h3a2d4a1429b4235b73167b42765c18e",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxHotelBooking",
+    "pf": "frmdashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

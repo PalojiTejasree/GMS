@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "s929e2cfd3894af29666c92a38fc524d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRemoveItem0d240700b99284f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d81f83e5ef74404093097856008065ea",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "flxListEvents",
+    "pf": "frmEvents1",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7fcc97111da41a2bc8d0448459a6647",
+    "_top_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "76.80%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.88%"
+    },
+    "children": [
+        "lblCreateEvent",
+        "imgAdd"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCreateEvent",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ua30816174564d09950352a38ecbe993",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenubar",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

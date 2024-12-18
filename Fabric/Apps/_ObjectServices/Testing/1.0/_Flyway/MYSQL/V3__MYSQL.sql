@@ -1,0 +1,2 @@
+ALTER TABLE `one`
+	DROP COLUMN `city`;

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s26d4041de9f4636be9824cfd5f6f967",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexGroup0jee49ce8362f4b",
+        "CopyFlexGroup0fa975c32857c42",
+        "CopyFlexGroup0idc4b7017f0547",
+        "CopyFlexGroup0a6b7203ecf2742"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxTableTme",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a01dfc3cd695441cadc0bfc5b19196c5",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxtable",
+    "pf": "frmdashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

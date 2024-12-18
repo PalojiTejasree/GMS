@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a791304dc59148b0b7fd01aaf0ad8a48": {
+        "id": "AS_FlexContainer_a791304dc59148b0b7fd01aaf0ad8a48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ac2f1b8bf0654146b9a7195fd9e45e9d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEvents1",
+            "formKUID": "c2d40daee1514e6ea6d1477f1e4fbd1c",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

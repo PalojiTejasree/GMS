@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0c7d0f73815454ab4a142aadb8b5b61",
+    "_top_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "CopyImage0b3b1ddee07fe47",
+        "CopyLabel0h69dfb149b474a"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxFacebook",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d16768e7a7b0496c95e4cf484dc26240",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxLoginBorder",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b1": {
+            "isVisible": false
+        },
+        "b3": {
+            "isVisible": false,
+            "skin": "s93f39949422444c9d3c74fb31882b45"
+        },
+        "b4": {
+            "height": {
+                "type": "string",
+                "value": "45dp"
+            },
+            "isVisible": false
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

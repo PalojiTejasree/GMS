@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s65b96eba3b044ed98b8a09cb248eb2e",
+    "_top_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "900dp"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "flxTimings",
+        "flxLine",
+        "flxPickupDetails"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxAirportPickUp",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a56ea53e35b54b08b27576605890e5f6",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollBodyContainer",
+    "pf": "frmVisitorsList",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "210dp"
+            },
+            "skin": "sa37e1e7cf0e45e997ecc98eb261137a"
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

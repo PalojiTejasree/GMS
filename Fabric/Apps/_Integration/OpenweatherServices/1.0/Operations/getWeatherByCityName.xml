@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<service serviceGroup="" cachable="false" cacheduration="" customOperation="false" description="" endpoint="default" groupType="" id="getWeatherByCityName" passwordencrypted="false" security="authorized_app_user" type="jsonConnector" smscode="" smsenabled="false">
+    <service-config>
+        <config-param api-version="" appid="" name="preprocessorname" value=""/>
+        <config-param api-version="" appid="" name="postprocessorname" value=""/>
+        <config-param api-version="" appid="" name="preprocessorJS" value=""/>
+        <config-param api-version="" appid="" name="postprocessorJS" value=""/>
+        <config-param api-version="" appid="" name="preprocessorRules" value=""/>
+        <config-param api-version="" appid="" name="postprocessorRules" value=""/>
+        <config-param api-version="" appid="" name="kony_http_supported_methods" value="POST"/>
+        <config-param api-version="" appid="" name="endpointUrl" value="https://api.openweathermap.org/data/2.5/weather?q=$cityname&amp;appid=7fd82bbcddf7fca658e257db4c6577f3"/>
+        <config-param api-version="" appid="" name="ignorehttpproxy" value="true"/>
+        <config-param api-version="" appid="" name="http.method" value="GET"/>
+        <config-param api-version="" appid="" name="dataObjectName" value=""/>
+        <config-param api-version="" appid="" name="sockettimeout" value=""/>
+        <config-param api-version="" appid="" name="responseEncoding" value="UTF-8"/>
+        <config-param api-version="" appid="" name="isembedxmlpresent" value="false"/>
+        <config-param api-version="" appid="" name="retrycount" value="0"/>
+        <config-param api-version="" appid="" name="jsonpath" value="true"/>
+    </service-config>
+    <service-input passthrough="false" isExtended="false">
+        <header datatype="" name="" passthrough="false" isExtended="false"/>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="cityname" order="" paramOrder="1" parentOrder="-1" passnull="false" sms-name="" src="session" sourcevalue="" srcformatvalue="" target="session" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <stub-param value=""/>
+    </service-input>
+    <service-output passthrough="false" isExtended="false">
+        <dataset defaultvalue="" id="weather" order="" paramOrder="24" parentOrder="0" src="$.weather[*]" testvalue="" isExtended="false">
+            <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="icon" order="" paramOrder="25" parentOrder="24" passnull="false" sms-name="" src="icon" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="description" order="" paramOrder="26" parentOrder="24" passnull="false" sms-name="" src="description" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="main" order="" paramOrder="27" parentOrder="24" passnull="false" sms-name="" src="main" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="id" order="" paramOrder="28" parentOrder="24" passnull="false" sms-name="" src="id" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </dataset>
+        <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="visibility" order="" paramOrder="1" parentOrder="0" passnull="false" sms-name="" src="$.visibility" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="timezone" order="" paramOrder="2" parentOrder="0" passnull="false" sms-name="" src="$.timezone" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="dt" order="" paramOrder="20" parentOrder="0" passnull="false" sms-name="" src="$.dt" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="name" order="" paramOrder="29" parentOrder="0" passnull="false" sms-name="" src="$.name" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="cod" order="" paramOrder="30" parentOrder="0" passnull="false" sms-name="" src="$.cod" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="id" order="" paramOrder="31" parentOrder="0" passnull="false" sms-name="" src="$.id" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="base" order="" paramOrder="32" parentOrder="0" passnull="false" sms-name="" src="$.base" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+            <accessType></accessType>
+        </param>
+        <record id="main" order="" paramOrder="3" parentOrder="0" src="$.main" isExtended="false">
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="temp" order="" paramOrder="4" parentOrder="3" passnull="false" sms-name="" src="temp" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="temp_min" order="" paramOrder="5" parentOrder="3" passnull="false" sms-name="" src="temp_min" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="grnd_level" order="" paramOrder="6" parentOrder="3" passnull="false" sms-name="" src="grnd_level" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="humidity" order="" paramOrder="7" parentOrder="3" passnull="false" sms-name="" src="humidity" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="pressure" order="" paramOrder="8" parentOrder="3" passnull="false" sms-name="" src="pressure" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="sea_level" order="" paramOrder="9" parentOrder="3" passnull="false" sms-name="" src="sea_level" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="feels_like" order="" paramOrder="10" parentOrder="3" passnull="false" sms-name="" src="feels_like" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="temp_max" order="" paramOrder="11" parentOrder="3" passnull="false" sms-name="" src="temp_max" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </record>
+        <record id="clouds" order="" paramOrder="12" parentOrder="0" src="$.clouds" isExtended="false">
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="all" order="" paramOrder="13" parentOrder="12" passnull="false" sms-name="" src="all" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </record>
+        <record id="sys" order="" paramOrder="14" parentOrder="0" src="$.sys" isExtended="false">
+            <param datatype="string" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="country" order="" paramOrder="15" parentOrder="14" passnull="false" sms-name="" src="country" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="sunrise" order="" paramOrder="16" parentOrder="14" passnull="false" sms-name="" src="sunrise" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="sunset" order="" paramOrder="17" parentOrder="14" passnull="false" sms-name="" src="sunset" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="id" order="" paramOrder="18" parentOrder="14" passnull="false" sms-name="" src="id" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="type" order="" paramOrder="19" parentOrder="14" passnull="false" sms-name="" src="type" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </record>
+        <record id="coord" order="" paramOrder="21" parentOrder="0" src="$.coord" isExtended="false">
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="lon" order="" paramOrder="22" parentOrder="21" passnull="false" sms-name="" src="lon" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="lat" order="" paramOrder="23" parentOrder="21" passnull="false" sms-name="" src="lat" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </record>
+        <record id="wind" order="" paramOrder="33" parentOrder="0" src="$.wind" isExtended="false">
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="deg" order="" paramOrder="34" parentOrder="33" passnull="false" sms-name="" src="deg" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+            <param datatype="number" defaultvalue="" description="" encode="true" format="None" formatvalue="" name="speed" order="" paramOrder="35" parentOrder="33" passnull="false" sms-name="" src="speed" sourcevalue="" srcformatvalue="" target="response" targetdatatype="java.lang.String" testvalue="" value="" isExtended="false">
+                <accessType></accessType>
+            </param>
+        </record>
+    </service-output>
+</service>

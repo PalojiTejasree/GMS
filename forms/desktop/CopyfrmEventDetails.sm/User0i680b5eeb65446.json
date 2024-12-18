@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s297474c7cab4f14807ca75dcc54ad1e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s49f83356de54d6aae954006dffa9dfd"
+        }
+    },
+    "disabledSkins": {},
+    "id": "User0i680b5eeb65446",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "be555c5e4eed48c6b504f3e994b9d223",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0ad984e8a8c8440",
+    "pf": "CopyfrmEventDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

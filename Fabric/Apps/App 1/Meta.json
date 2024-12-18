@@ -1,0 +1,38 @@
+{
+  "subType" : "customapp",
+  "description" : "This is an app of type [mbaasapp]",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "NewYorkTimesNewsFeed",
+    "version" : "1.0",
+    "etag" : "6d49f6e3-a9b6-4a1c-9a26-a3565e7cd03f"
+  }, {
+    "name" : "OpenstreetLocationsService",
+    "version" : "1.0",
+    "etag" : "7fccba54-9d0a-40e8-a908-cb2443f4e465"
+  }, {
+    "name" : "OpenweatherServices",
+    "version" : "1.0",
+    "etag" : "37bf95f5-34f4-419b-9d65-5fe6771aff5e"
+  } ],
+  "orchSvcs" : [ {
+    "name" : "CityWeatherServices",
+    "version" : "1.0",
+    "etag" : "029fbc17-f2ff-4c97-b3d9-65027beba9a2"
+  } ],
+  "objectSvcs" : [ {
+    "name" : "Records",
+    "version" : "1.0",
+    "etag" : "2139d5e5-f315-45a5-a0e0-7dc9b9e18980"
+  }, {
+    "name" : "Testing",
+    "version" : "1.0",
+    "etag" : "13d3416f-bfe8-4506-9c64-0489acec4ff7"
+  }, {
+    "name" : "UserData",
+    "version" : "1.0",
+    "etag" : "9338d040-92b9-49b5-bcfe-0952586b0427"
+  } ],
+  "identity" : [ "Tejasree" ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}

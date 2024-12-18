@@ -1,0 +1,80 @@
+{
+    "AS_Button_j79cf4b794fd403ba8f5d174298ea87b": {
+        "id": "AS_Button_j79cf4b794fd403ba8f5d174298ea87b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fdc197625b5c4a3aa1a80d87fc625710"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__iee6ab8994c34f69a43531f5432cabff",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmdashboard",
+            "formKUID": "be512d6558fe42c0bf4b2d744863f321",
+            "projectName": "GMSystem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_SERVICE_c821401380064910bf1f519eb6466627",
+            "callbackType": "Success",
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }, {
+            "id": "INVOKE_SERVICE_c821401380064910bf1f519eb6466627",
+            "type": "INVOKE_IDENTITY_SERVICE",
+            "mappings": {
+                "ME_Mapping_d7161c7d9ada4dcd8e51ac5251f5e48c": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_d7161c7d9ada4dcd8e51ac5251f5e48c",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "txtPassword",
+                        "widgetPath": "this.view.txtPassword",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "frmLogin",
+                        "widgetKUID": "d1a955db5dce45a691ba8905f3dace7b",
+                        "itemKUID": "fdc197625b5c4a3aa1a80d87fc625710",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "password",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "operationname": "login",
+                            "servicename": "UserAuthentication",
+                            "type": "identity",
+                            "isDeepLinkRequired": false,
+                            "login_type": "basic"
+                        }
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_d7161c7d9ada4dcd8e51ac5251f5e48c"],
+            "serviceconfig": {
+                "operationname": "login",
+                "servicename": "UserAuthentication",
+                "type": "identity",
+                "isDeepLinkRequired": false,
+                "login_type": "basic"
+            },
+            "enableMappingEditor": true,
+            "useDeviceBrowser": false,
+            "isDeepLinkRequired": false
+        }]
+    }
+}

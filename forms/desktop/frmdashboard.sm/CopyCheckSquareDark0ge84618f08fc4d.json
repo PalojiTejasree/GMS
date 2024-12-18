@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc3cf45f28124db2ab17ce2394ea2c45",
+    "_text_": "",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "40%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyCheckSquareDark0ge84618f08fc4d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "dcca6c2b0e614cca982f92cb0ebb8f7c",
+    "masterType": 1,
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0ja56de8b7f2842",
+    "pf": "frmdashboard",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbf7876460724fbca1e3792cca31e004",
+    "_src_": "mainlogo.png",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48%"
+    },
+    "containerweight": 100,
+    "id": "Image0h84d641baed14e",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ecca0dd62f0b4c319ad93d1ceea2a2d1",
+    "name": "kony.ui.Image2",
+    "parent": "flxLoginBody",
+    "pf": "frmLogin",
+    "responsiveData": {
+        "b4": {
+            "centerX": {
+                "type": "string",
+                "value": "62%"
+            },
+            "top": {
+                "type": "string",
+                "value": "8dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 2
+}

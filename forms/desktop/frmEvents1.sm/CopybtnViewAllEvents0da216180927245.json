@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s938791d9510452d87449f2b17029a52",
+    "_text_": "View All Events",
+    "_width_": {
+        "type": "string",
+        "value": "127dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s069eb42ab4743118d36a4a87c2dd3dc"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s12dc091e43d480ab7e875892f3c1648",
+    "id": "CopybtnViewAllEvents0da216180927245",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d02c867db935455e91d61c63436a8c05",
+    "name": "kony.ui.Button",
+    "parent": "flxListEvents",
+    "pf": "frmEvents1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
